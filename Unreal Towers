@@ -1,0 +1,2 @@
+--Unreal Towers--
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2305.11157, 130.707169, -681.630798, 0.734621108, -4.31010569e-08, 0.678477585, 1.67197527e-08, 1, 4.54228299e-08, -0.678477585, -2.20245937e-08, 0.734621108)
