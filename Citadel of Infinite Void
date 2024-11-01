@@ -1,0 +1,19 @@
+--citadel of infinite void all checkpoint+go to floor11 : --
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(664.820984, 1847.44897, 1599.58057, -0.707134247, 0, -0.707079291, 0, 1, 0, 0.707079291, 0, -0.707134247)
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(679.674683, 1692.45142, 1461.69519, -0.707134247, 0, -0.707079291, 0, 1, 0, 0.707079291, 0, -0.707134247)
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(664.824097, 1588.20483, 1505.5354, -0.707134247, 0, -0.707079291, 0, 1, 0, 0.707079291, 0, -0.707134247)
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(671.542297, 1272.70264, 1477.95837, -0.707134247, 0, -0.707079291, 0, 1, 0, 0.707079291, 0, -0.707134247)
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(659.832153, 1040.19824, 1531.55005, -0.555637002, 0, -0.831425071, 0, 1, 0, 0.831425071, 0, -0.555637002)
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(771.773682, 979.449951, 1513.49377, -0.707134247, 0, -0.707079291, 0, 1, 0, 0.707079291, 0, -0.707134247)
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(694.367981, 1092.44836, 1566.53174, -0.937529802, -2.9442444e-09, 0.34790501, -3.02775166e-13, 1, 8.46196624e-09, -0.34790501, 7.93324073e-09, -0.937529802)
+wait(0.005)
+print ("work!,now close this page.)
+
+--go to citadel of infinite void portal :--
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2418.03882, 173.103958, -702.159973, 0.19299756, -9.10166236e-08, -0.981199265, 2.35177566e-09, 1, -9.22980092e-08, 0.981199265, 1.550573e-08, 0.19299756)
