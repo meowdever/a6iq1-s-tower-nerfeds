@@ -1,0 +1,32 @@
+--tovh all checkpoint + last jump :--
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(996.130188, 1036.75073, -12.9732857, -1, 0, 0, 0, 1, 0, 0, 0, -1)
+wait(0.05)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1033.45825, 1696.71216, 8.62464142, -1, 0, 0, 0, 1, 0, 0, 0, -1)
+wait(0.05)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1087.14148, 2004.78369, 37.6234131, 0.0258006416, 3.91382962e-08, -0.999667108, 3.45640068e-08, 1, 4.00433997e-08, 0.999667108, -3.55856464e-08, 0.0258006416)
+
+--totrp all checkpoint + last jump :--
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2233.31836, 1723.04443, 2146.35107, 0.707134247, 0, 0.707079291, 0, 1, 0, -0.707079291, 0, 0.707134247)
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2060.90796, 1801.479, 2335.78711, 0.965929627, 0, 0.258804798, 0, 1, 0, -0.258804798, 0, 0.965929627)
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1864.40173, 1875.03455, 2522.16553, 0.986251235, 8.03619002e-08, -0.16525276, -8.17554096e-08, 1, -1.63067992e-09, 0.16525276, 1.51185677e-08, 0.986251235)
+
+toev all checkpoint + last jump :
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2031.44177, 630.940857, 1025.56042, 0.707134247, -4.6719324e-05, -0.707079291, 0.000112784233, 1, 4.6719324e-05, 0.707079291, -0.000112784233, 0.707134247)
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2099.50122, 728.690369, 1028.9198, 0.707134247, -0, -0.707079291, 0, 1, -0, 0.707079291, 0, 0.707134247)
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2062.12988, 956.690857, 912.237732, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2072.02979, 1112.19116, 1115.13818, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2032.13037, 1307.19165, 1024.73804, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2120.40332, 1372.93945, 1015.75317, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2142.37988, 611.440125, 1073.98816, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2159.18018, 1523.99194, 1019.73798, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2092.46558, 1540.44153, 1036.65149, -0.996422231, -1.22645627e-08, -0.0845148861, -1.20096892e-08, 1, -3.5241321e-09, 0.0845148861, -2.4965261e-09, -0.996422231)
